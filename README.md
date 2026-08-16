@@ -1,19 +1,17 @@
-### Kuldeep Singh
+# Kuldeep Singh
 
-Senior Backend Engineer building payments infrastructure at Easebuzz — AWS Certified
-Solutions Architect (SAA-C03, 940/1000). I write publicly about distributed systems,
-database internals, and AI security at [kuldeepstechwork.com](https://kuldeepstechwork.com).
+**Senior Software Engineer (SDE III) with 7+ years of experience, operating at an Enterprise Architect / Solution Architect level — specializing in payments infrastructure, technology strategy, and cloud architecture. AWS Certified Solutions Architect (SAA-C03, 940/1000).** I write publicly about enterprise architecture, distributed systems, database internals, and AI security at [kuldeepstechwork.com](https://kuldeepstechwork.com).
 
 **Currently:**
-- Building the compliance and payment integration layer at Easebuzz (40+ Django apps, BBPS/NACH/UPI/RBI mandate specs)
-- Documenting an AI security research track from first principles (networking to protocol analysis to offensive tooling to detection engineering)
+• Translating business strategy into technology roadmaps and architecture decisions for a 40+ service, RBI-regulated payment compliance platform at Easebuzz (BBPS/NACH/UPI/RBI mandate specs)
+• Documenting an AI security research track from first principles (networking to protocol analysis to offensive tooling to detection engineering)
 
 **Recent writing:**
-- [A PostgreSQL Deep Dive into Payment Ledger Internals](https://kuldeepstechwork.com/blog/postgresql-payment-ledger-internals) - MVCC, idempotency races, autovacuum bloat, PITR
-- [Cron at Scale in Fintech](https://kuldeepstechwork.com/blog/taming-cron-at-scale) - failure taxonomy for 40+ scheduled jobs at 1M+ transactions/day
-- [The Shared Database Trap](https://kuldeepstechwork.com/blog/the-shared-database-trap) - why decomposed services aren't automatically microservices
+• [Aligning IT Strategy with Business Goals](https://kuldeepstechwork.com/blog/aligning-it-strategy-with-business-goals)
+• [Audit Trails in Regulated Fintech Systems](https://kuldeepstechwork.com/blog/audit-trails-in-regulated-fintech-systems)
+• [Building a Fintech Engineering Team From Scratch](https://kuldeepstechwork.com/blog/building-fintech-engineering-teams-from-scratch)
+• [A PostgreSQL Deep Dive into Payment Ledger Internals](https://kuldeepstechwork.com/blog/postgresql-payment-ledger-internals)
 
 **Stack:** Python - Django - FastAPI - Go - PostgreSQL - Redis - Kafka - AWS - React
 
-[Portfolio](https://kuldeepstechwork.com) - [LinkedIn](https://www.linkedin.com/in/kuldeepstechwork/) - [Blog](https://kuldeepstechwork.com/blog)
-
+[Portfolio](https://kuldeepstechwork.com) - [LinkedIn](https://linkedin.com/in/kuldeepstechwork) - [Blog](https://kuldeepstechwork.com/blog)
