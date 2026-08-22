@@ -7,10 +7,12 @@
 • Documenting an AI security research track from first principles (networking to protocol analysis to offensive tooling to detection engineering)
 
 **Recent writing:**
+• [Reference Architecture: A Secure Landing Zone for Regulated Payment Workloads on AWS](https://kuldeepstechwork.com/blog/reference-architecture-secure-payments-landing-zone)
+• [Stakeholder Management for Architects](https://kuldeepstechwork.com/blog/stakeholder-management-for-architects)
 • [Aligning IT Strategy with Business Goals](https://kuldeepstechwork.com/blog/aligning-it-strategy-with-business-goals)
 • [Audit Trails in Regulated Fintech Systems](https://kuldeepstechwork.com/blog/audit-trails-in-regulated-fintech-systems)
-• [Building a Fintech Engineering Team From Scratch](https://kuldeepstechwork.com/blog/building-fintech-engineering-teams-from-scratch)
-• [A PostgreSQL Deep Dive into Payment Ledger Internals](https://kuldeepstechwork.com/blog/postgresql-payment-ledger-internals)
+
+**Enterprise Architecture case studies:** five fictional-company TOGAF ADM engagements — architecture vision through change management, with ADRs, business cases, and vendor evaluations at every phase — spanning [automotive](https://github.com/kuldeepstechwork/togaf-ea-automotive), [food delivery](https://github.com/kuldeepstechwork/togaf-ea-food-delivery), [fintech/payments](https://github.com/kuldeepstechwork/togaf-ea-fintech-payments), [airline](https://github.com/kuldeepstechwork/togaf-ea-airline), and [telecom BSS/OSS](https://github.com/kuldeepstechwork/togaf-ea-telecom-bssoss).
 
 **Stack:** Python - Django - FastAPI - Go - PostgreSQL - Redis - Kafka - AWS - React
 
